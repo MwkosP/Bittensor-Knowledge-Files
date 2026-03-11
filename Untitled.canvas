@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"806a87cf7a51e7ec","x":-220,"y":-280,"width":429,"height":180,"type":"text","text":"/ROOT CHAIN \n\n\n"},
+		{"id":"d1c81ee2b118025c","x":-380,"y":100,"width":250,"height":60,"type":"text","text":"Subnet 1"},
+		{"id":"fb17ffbef3454f06","type":"text","text":"Subnet 1","x":-100,"y":100,"width":250,"height":60},
+		{"id":"432eeb439b2238e6","type":"text","text":"Subnet 1","x":240,"y":100,"width":250,"height":60}
+	],
+	"edges":[]
+}
